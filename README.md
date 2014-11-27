@@ -30,6 +30,8 @@ The Objectives of the video
 
 The script is written in [fountain](http://fountain.io).
 
+You can read it formated with this tool: <http://mattdaly.github.io/Fountain.js/>
+
 
 
 
