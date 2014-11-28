@@ -14,7 +14,7 @@ In a time of increased multitasking, we believe in the words of David Allen and 
 
 As a team of GTD enthusiasts, we have developed a simple app which organizes all tasks, emails and files for the Apple user that wants to escape their digital clutter and use a single interface to provide a focus on the creative work that they love.
 
-Unlike other GTD apps such as OmniFocus, we are able to build a stable and reliable structure based on your file system [up to 50,000 feet] that you really can forget about on the runway. We will not stop until every digital native GTD fan knows there is an effective way to get your things done with your Mac and iPhone.
+Unlike other GTD apps such as OmniFocus, we are able to build a stable and reliable structure based on your file system up to 50,000 feet that you really can forget about on the runway. We will not stop until every digital native GTD fan knows there is an effective way to get your things done with your Mac and iPhone.
 
 The Objectives of the video
 ---------------------------
