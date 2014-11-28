@@ -7,25 +7,23 @@ We make the video in Graz, Austria in the mid of dezember.
 You are welcome to improve the script.
 We are happy about every idea and every better english sentence.
 
-Anser - the GTD-app that give your Tasks a Meaning
---------------------------------------------------
+Anser - the GTD app that gives your Tasks a Meaning
+---------------------------------------------------
 
-In a time of multitasking we still believe in the words of David Allen and **imagine a world where gtd is really working on your Apple environment.**
+In a time of increased multitasking, we believe in the words of David Allen and imagine a world where GTD really works within your Apple environment.
 
-That is why we are a team of gtd-enthusiasts that develop an simple app which is organizing all tasks, mails and files for apple-user who want to escape their digital mess and search for an app that really helps to **focus on the creative work that they love.**
+As a team of GTD enthusiasts, we have developed a simple app which organizes all tasks, emails and files for the Apple user that wants to escape their digital clutter and use a single interface to provide a focus on the creative work that they love.
 
-Other than gtd-apps like OmniFocus we are able to build a stable and trusting structure based on your file system up to 50.000 feet  that you really can forget on the runway and **we will not stop until every digital native gtd-fan knows there is a working way to get your things done with your Mac and iPhone.**
+Unlike other GTD apps such as OmniFocus, we are able to build a stable and reliable structure based on your file system [up to 50,000 feet] that you really can forget about on the runway. We will not stop until every digital native GTD fan knows there is an effective way to get your things done with your Mac and iPhone.
 
 The Objectives of the video
 ---------------------------
 
-- We want to share our idea of a working gtd system on your Mac and iPhone.
-- We want to show our team.
-- We want to tell a story.
-- We want to motivate people to donate for our kickstarter projeckt.
-- We want to motivate people to share their problems with digital gtd.
-
---------------------------------------
+- We want to share our idea of a working GTD system on your Mac and iPhone. 
+- We want to showcase our team. 
+- We want to tell a story. 
+- We want to motivate people to donate to our Kickstarter project. 
+- We want to motivate people to share their problems with digital GTD.
 
 
 The script is written in [fountain](http://fountain.io).
